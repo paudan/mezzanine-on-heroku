@@ -1,0 +1,1 @@
+web: gunicorn mezzaninetest.wsgi --log-file -

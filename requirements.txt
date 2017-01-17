@@ -1,0 +1,6 @@
+Mezzanine==4.2.2
+dj-database-url
+django-fobi
+gunicorn
+psycopg2
+whitenoise
